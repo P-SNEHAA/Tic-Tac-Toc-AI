@@ -1,5 +1,5 @@
-# Tic-Tac-Toc-AI
+# Tic-Tac-Toe-AI
 A python based Tic-Tac-Toc-AI made by usnig minimax algorithm
+A simple **Tic Tac Toe game with AI** developed using **Python, Pygame, and NumPy**.  
+The game allows a human player to play against an AI opponent that uses the **Minimax algorithm** to make the best possible moves.
 
-
-This is a tic tac toe game
