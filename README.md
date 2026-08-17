@@ -10,5 +10,12 @@ The game allows a human player to play against an AI opponent that uses the **Mi
     AI makes optimal moves
     Detects win, loss, and draw
     Press R to restart the game
-    Simple graphical interface using Pygame.
+    Simple graphical interface using Pygame
+
+# Technologies Used
+- Python
+- Pygame – for creating the game window, board, graphics, and handling mouse/keyboard events
+- NumPy – for storing and managing the Tic Tac Toe board
+- Minimax Algorithm – for AI decision-making
+
     
